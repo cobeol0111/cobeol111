@@ -5,4 +5,9 @@
 ## Discord Bot
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-ㅇ
+현재, 
+리뷰를 구하고 있어서 과도한 기능을 요구하지 않는 이상 가격은 1,000₩입니다.
+
+|기능|가격|비고|
+|:---:|:---:|:---:|
+|ALL|1,000₩|X|
