@@ -13,7 +13,6 @@
 리뷰를 구하고 있어서 과도한 기능을 요구하지 않는 이상 가격은 1,000₩입니다.
 
 <br>
-<br>
 
 ## Minecraft Plugin
 <img src="https://img.shields.io/badge/papermc-62B47A?style=for-the-badge&logo=minecraft&logoColor=black"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
